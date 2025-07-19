@@ -1,4 +1,4 @@
-## Hi there, I am Alex 👋
+## 👋 Hi there, I am Alex
 
 I’m an international student with a **Bachelor’s** and a **Master of Applied Science** degree in **Electrical Engineering**.
 
@@ -9,7 +9,6 @@ My passion lies in solving real-world problems through a combination of hardware
 - **Embedded Systems** – developing efficient, low-level software for smart and connected devices
 
 I enjoy working at the intersection of these fields and actively pursue research, collaborative development, and open-source contributions.
-
 
 
 <!--
