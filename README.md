@@ -4,7 +4,7 @@ I’m an international student with a **Bachelor’s** and a **Master of Applied
 
 My passion lies in solving real-world problems through a combination of hardware and data-driven solutions. I have a broad range of interests, including:
 
-- **Data Science** – transforming raw data into intelligent, actionable insights  
+- **Machine and Deep Learning** – transforming raw data into intelligent, actionable insights  
 - **Robotics** – designing and implementing systems that interact with the physical world  
 - **Embedded Systems** – developing efficient, low-level software for smart and connected devices
 
